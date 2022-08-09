@@ -20,8 +20,11 @@
 
 <details>
 <summary>:heavy_check_mark: Resent Projects</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Mrdoker1">
-<img src="https://github-profile-trophy.vercel.app/?username=Mrdoker1">
+- [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator)
+- [Alexa Rise Portfolio](https://rolling-scopes-school.github.io/mrdoker1-JSFEPRESCHOOL/1.3-custom-video/inside-portfolio/)
+- [Shelter Website](https://rolling-scopes-school.github.io/mrdoker1-JSFE2022Q1/shelter/pages/main/)
+- [Virtual Keyboard](https://rolling-scopes-school.github.io/mrdoker1-JSFE2022Q1/virtual-keyboard/)
+- [Async Race](https://rolling-scopes-school.github.io/mrdoker1-JSFE2022Q1/async-race/public/)
 </details>
 
 <details>
@@ -30,7 +33,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Mrdoker1">
 </details>
 
-Feel free to contact me :yum:
+Feel free to contact me:
 <br><br>
 [<img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea">](https://t.me/mdreg_by)
 [<img src="https://img.shields.io/badge/Linkedin-kubic-informational">](https://linkedin.com/in/kubic)
