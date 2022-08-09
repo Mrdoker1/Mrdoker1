@@ -18,14 +18,12 @@
 :star: Projects that I'm working on:
 - [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
 
-<details>
-<summary>:heavy_check_mark: Resent Projects</summary>
+:heavy_check_mark: Resent Projects
 - [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator)
 - [Alexa Rise Portfolio](https://rolling-scopes-school.github.io/mrdoker1-JSFEPRESCHOOL/1.3-custom-video/inside-portfolio/)
 - [Shelter Website](https://rolling-scopes-school.github.io/mrdoker1-JSFE2022Q1/shelter/pages/main/)
 - [Virtual Keyboard](https://rolling-scopes-school.github.io/mrdoker1-JSFE2022Q1/virtual-keyboard/)
 - [Async Race](https://rolling-scopes-school.github.io/mrdoker1-JSFE2022Q1/async-race/public/)
-</details>
 
 <details>
 <summary>:trophy: Github Stats</summary>
