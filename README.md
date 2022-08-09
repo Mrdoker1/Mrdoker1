@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm User Experience Designer & Front-End Developer developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197527.png" width="13"/> <b>Minsk, Belarus</b>
 
