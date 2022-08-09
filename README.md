@@ -19,7 +19,7 @@
 - [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
 
 <details>
-<summary>:trophy: Resent Projects</summary>
+<summary>:heavy_check_mark: Resent Projects</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Mrdoker1">
 <img src="https://github-profile-trophy.vercel.app/?username=Mrdoker1">
 </details>
