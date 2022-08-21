@@ -16,9 +16,10 @@
 </p>
 
 :star: Projects that I'm working on:
-- [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
+- [RS Lang](https://github.com/Mrdoker1/rslang)
 
 :heavy_check_mark: Recent Projects
+- [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
 - [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator)
 
 <details>
