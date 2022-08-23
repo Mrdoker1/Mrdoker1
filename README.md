@@ -2,7 +2,7 @@
 
 <p>
   <b>
-    <h3>Welcome to my page!</h3> </br>
+    <h3>Welcome to my page!</h3>
     I'm User Experience Designer & Front-End Developer developer. | <a href="https://mrdoker1.github.io/rsschool-cv/">CV</a>
   </b>
   <h4>Things I code with</h4>
