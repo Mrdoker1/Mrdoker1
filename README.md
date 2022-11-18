@@ -5,7 +5,7 @@
     <h3>Welcome to my page!</h3>
     <p>I'm User Experience Designer & Front-End Developer.</p>
     <p>
-      <a href="https://mrdoker1.github.io/rsschool-cv/">CV</a> | <a href="https://mrdoker1.github.io/rsschool-cv/](https://mrdoker1.github.io/portfolio/?path=main">Portfolio</a>
+      <a href="https://mrdoker1.github.io/rsschool-cv/">CV</a> | <a href="https://mrdoker1.github.io/portfolio/?path=main">Portfolio</a>
     </p>
   </b>
   <h4>Things I code with</h4>
