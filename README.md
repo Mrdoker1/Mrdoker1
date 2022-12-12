@@ -22,9 +22,9 @@
 
 :star: Projects that I'm working on:
 - [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
-- [Project Management App](https://github.com/Mrdoker1/project-management-app)
 
 :heavy_check_mark: Recent Projects
+- [Project Management App](https://github.com/Mrdoker1/project-management-app)
 - [RS Lang](https://github.com/Mrdoker1/rslang)
 - [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator)
 
