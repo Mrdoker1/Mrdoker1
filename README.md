@@ -22,6 +22,7 @@
 
 :star: Projects that I'm working on:
 - Unnamed gamdev project
+
 :heavy_check_mark: Recent Projects
 - [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
 - [Project Management App](https://github.com/Mrdoker1/project-management-app)
