@@ -21,7 +21,7 @@
 </p>
 
 :star: Projects that I'm working on:
-- Unnamed gamdev project
+- Unnamed gamedev project
 
 :heavy_check_mark: Recent Projects
 - [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
