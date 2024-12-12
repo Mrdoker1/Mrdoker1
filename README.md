@@ -25,7 +25,7 @@
 
  ✅ Recent Projects
 - [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj)
-- [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
+- [Do Jewerly](https://mrdoker1.github.io/dojewerly_client)
 - [Project Management App](https://github.com/Mrdoker1/project-management-app)
 - [RS Lang](https://github.com/Mrdoker1/rslang)
 - [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator)
