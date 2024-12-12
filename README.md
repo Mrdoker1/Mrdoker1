@@ -23,7 +23,8 @@
 :star: Projects that I'm working on:
 - Unnamed gamedev project
 
-:heavy_check_mark: Recent Projects
+ ✅ Recent Projects
+- [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj)
 - [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
 - [Project Management App](https://github.com/Mrdoker1/project-management-app)
 - [RS Lang](https://github.com/Mrdoker1/rslang)
