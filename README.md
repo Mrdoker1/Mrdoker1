@@ -21,7 +21,7 @@
 </p>
 
 :star: Projects that I'm working on:
-- Unnamed gamedev project
+- Project X
 
  ✅ Recent Projects
 - [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj)
