@@ -24,7 +24,7 @@
 - Project X
 
  ✅ Recent Projects
-- [Seluna App(VK)](https://vk.com/app53429194)
+- [Seluna App (VK)](https://vk.com/app53429194)
 - [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj)
 - [Do Jewerly](https://mrdoker1.github.io/dojewerly_client)
 - [Project Management App](https://github.com/Mrdoker1/project-management-app)
