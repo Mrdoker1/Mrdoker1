@@ -42,7 +42,7 @@
 - [5 Post](https://fivepost.ru/) — Enterprise (delivery solution)
 - Glennis (aka Aline) — Enterprise (senior living system: event planning & scheduling)
 - [Matrix Solutions](https://www.matrixformedia.com/) — Enterprise
-- [Article&.com](https://www.articleand.com/) — e-commerce (New York fashion retailer)
+- [Article&.com](https://www.articleand.com/) — E-Commerce (New York fashion retailer)
 
 <details>
 <summary>:trophy: Github Stats</summary>
