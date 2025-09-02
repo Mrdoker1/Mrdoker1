@@ -26,13 +26,23 @@
 :star: Projects that I'm working on:
 - Untitled project(Android)
 
- ✅ Recent Projects
-- [Seluna App (VK)](https://vk.com/app53429194) — пользователей: 6000+
-- [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator) — пользователей: 50000+
-- [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj) — пользователей: 10+
-- [Do Jewerly](https://mrdoker1.github.io/dojewerly_client) — Учебный проект EPAM
-- [Project Management App](https://github.com/Mrdoker1/project-management-app) — Учебный проект EPAM
-- [RS Lang](https://github.com/Mrdoker1/rslang) — Учебный проект EPAM
+🚀 Personal Projects
+- [Seluna App (VK)](https://vk.com/app53429194) — users: 6000+
+- [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator) — users: 50000+
+- [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj) — users: 10+
+- [Do Jewerly](https://mrdoker1.github.io/dojewerly_client) — Educational project (EPAM)
+- [Project Management App](https://github.com/Mrdoker1/project-management-app) — Educational project (EPAM)
+- [RS Lang](https://github.com/Mrdoker1/rslang) — Educational project (EPAM)
+
+💼 Commercial Projects (Teamwork)
+- [Busuu](https://www.busuu.com/) — users: 120M+ (EdTech language learning platform)
+- [Verbling](https://www.verbling.com/) — users: 10M+ (online platform for language courses)
+- [Cognni.ai](https://www.cognni.ai/) — Enterprise SaaS (information security & file analysis)
+- [Guy Carpenter](https://www.guycarp.com/) — Enterprise (Reinsurance Tax Calculator)
+- [5 Post](https://5post.ru/) — Enterprise (delivery solution)
+- Glennis (aka Aline) — Enterprise (senior living system: event planning & scheduling)
+- [Matrix Solutions](https://www.matrices.com/) — Enterprise
+- [Article&.com](https://www.articleand.com/) — e-commerce (New York fashion retailer)
 
 <details>
 <summary>:trophy: Github Stats</summary>
