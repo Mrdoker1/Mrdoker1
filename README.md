@@ -39,9 +39,9 @@
 - [Verbling](https://www.verbling.com/) — users: 10M+ (online platform for language courses)
 - [Cognni.ai](https://www.cognni.ai/) — Enterprise SaaS (information security & file analysis)
 - [Guy Carpenter](https://www.guycarp.com/) — Enterprise (Reinsurance Tax Calculator)
-- [5 Post](https://5post.ru/) — Enterprise (delivery solution)
+- [5 Post]([https://5post.ru/](https://fivepost.ru/)) — Enterprise (delivery solution)
 - Glennis (aka Aline) — Enterprise (senior living system: event planning & scheduling)
-- [Matrix Solutions](https://www.matrices.com/) — Enterprise
+- [Matrix Solutions](https://www.matrixformedia.com/) — Enterprise
 - [Article&.com](https://www.articleand.com/) — e-commerce (New York fashion retailer)
 
 <details>
