@@ -24,12 +24,12 @@
 - Project X
 
  ✅ Recent Projects
-- [Seluna App (VK)](https://vk.com/app53429194)
-- [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj)
-- [Do Jewerly](https://mrdoker1.github.io/dojewerly_client)
-- [Project Management App](https://github.com/Mrdoker1/project-management-app)
-- [RS Lang](https://github.com/Mrdoker1/rslang)
-- [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator)
+- [Seluna App (VK)](https://vk.com/app53429194) — пользователей: 6000+
+- [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator) — пользователей: 50000+
+- [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj) — пользователей: 10+
+- [Do Jewerly](https://mrdoker1.github.io/dojewerly_client) — Учебный проект EPAM
+- [Project Management App](https://github.com/Mrdoker1/project-management-app) — Учебный проект EPAM
+- [RS Lang](https://github.com/Mrdoker1/rslang) — Учебный проект EPAM
 
 <details>
 <summary>:trophy: Github Stats</summary>
