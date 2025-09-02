@@ -21,7 +21,7 @@
 </p>
 
 :star: Projects that I'm working on:
-- Project X
+- Untitled project(Android)
 
  ✅ Recent Projects
 - [Seluna App (VK)](https://vk.com/app53429194) — пользователей: 6000+
