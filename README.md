@@ -27,22 +27,22 @@
 - Untitled project(Android)
 
 🚀 Personal Projects
-- [Seluna App (VK)](https://vk.com/app53429194) — users: 6000+
-- [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator) — users: 50000+
-- [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj) — users: 10+
-- [Do Jewerly](https://mrdoker1.github.io/dojewerly_client) — Educational project (EPAM)
-- [Project Management App](https://github.com/Mrdoker1/project-management-app) — Educational project (EPAM)
-- [RS Lang](https://github.com/Mrdoker1/rslang) — Educational project (EPAM)
+- [Seluna App (VK)](https://vk.com/app53429194)
+- [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator)
+- [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj)
+- [Do Jewerly](https://mrdoker1.github.io/dojewerly_client)
+- [Project Management App](https://github.com/Mrdoker1/project-management-app)
+- [RS Lang](https://github.com/Mrdoker1/rslang)
 
 💼 Commercial Projects (Teamwork)
-- [Busuu](https://www.busuu.com/) — users: 120M+ (EdTech language learning platform)
-- [Verbling](https://www.verbling.com/) — users: 10M+ (online platform for language courses)
-- [Cognni.ai](https://www.cognni.ai/) — Enterprise SaaS (information security & file analysis)
-- [Guy Carpenter](https://www.guycarp.com/) — Enterprise (Reinsurance Tax Calculator)
-- [5 Post](https://fivepost.ru/) — Enterprise (delivery solution)
-- Glennis (aka Aline) — Enterprise (senior living system: event planning & scheduling)
-- [Matrix Solutions](https://www.matrixformedia.com/) — Enterprise
-- [Article&.com](https://www.articleand.com/) — E-Commerce (New York fashion retailer)
+- [Busuu](https://www.busuu.com/)
+- [Verbling](https://www.verbling.com/)
+- [Cognni.ai](https://www.cognni.ai/)
+- [Guy Carpenter](https://www.guycarp.com/)
+- [5 Post](https://fivepost.ru/)
+- Glennis (aka Aline)
+- [Matrix Solutions](https://www.matrixformedia.com/)
+- [Article&.com](https://www.articleand.com/)
 
 <details>
 <summary>:trophy: Github Stats</summary>
