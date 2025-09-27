@@ -27,6 +27,7 @@
 - Untitled project(Android)
 
 🚀 Personal Projects
+- [Smart Doc Scan App (Android)](https://play.google.com/store/apps/details?id=com.smartdocscan.app)
 - [Seluna App (VK)](https://vk.com/app53429194)
 - [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator)
 - [Ticket Tracker](https://chromewebstore.google.com/detail/ticket-tracker-belarusian/hhjmegjfobpppiioidccddjiigejbmjj)
