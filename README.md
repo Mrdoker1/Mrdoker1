@@ -43,7 +43,7 @@
 - [5 Post](https://fivepost.ru/)
 - Glennis (aka Aline)
 - [Matrix Solutions](https://www.matrixformedia.com/)
-- [Article&.com](https://www.articleand.com/)
+- [Article&.com](https://www.articleand.com/) +30 E-commerce projects
 
 <details>
 <summary>:trophy: Github Stats</summary>
