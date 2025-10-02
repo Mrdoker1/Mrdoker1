@@ -24,7 +24,8 @@
 </p>
 
 :star: Projects that I'm working on:
-- Untitled project(Android)
+- Seluna App(for Android)
+- Untitled Game Project(Unity)
 
 🚀 Personal Projects
 - [Smart Doc Scan App (Android)](https://play.google.com/store/apps/details?id=com.smartdocscan.app)
